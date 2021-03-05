@@ -1,2 +1,4 @@
-# STREAM_Models
+# STREAM_Model
+
 Semidistributed conceptual hydrological model
+
